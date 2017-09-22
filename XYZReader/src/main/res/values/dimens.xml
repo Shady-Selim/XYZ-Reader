@@ -12,6 +12,7 @@
     <dimen name="card_elevation">16dp</dimen>
 
     <dimen name="appBar_elevation">4dp</dimen>
+    <dimen name="barHeight">90dp</dimen>
 
 
     <bool name="isLandscape">false</bool>
