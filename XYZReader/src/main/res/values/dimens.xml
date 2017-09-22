@@ -11,6 +11,9 @@
     <dimen name="card_corner_radius">20dp</dimen>
     <dimen name="card_elevation">16dp</dimen>
 
+    <dimen name="appBar_elevation">4dp</dimen>
+
+
     <bool name="isLandscape">false</bool>
 
 </resources>
